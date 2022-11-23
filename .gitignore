@@ -106,3 +106,4 @@ dist
 #ignore remix files
 .deps
 /contracts/artifacts
+/contracts/visibilidade/**/artifacts
