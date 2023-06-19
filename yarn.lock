@@ -5,10 +5,10 @@ __metadata:
   version: 6
   cacheKey: 8
 
-"@openzeppelin/contracts@npm:^4.8.0":
-  version: 4.8.0
-  resolution: "@openzeppelin/contracts@npm:4.8.0"
-  checksum: dfab51a7f91735cfb1e94dd5074736b0dac0207e4ebf26eb46b32defd3b67adce5a36b248daa7b841c21be74863c1e37cf92ed194a9c36d3f8c5326d1a24242a
+"@openzeppelin/contracts@npm:^4.9.2":
+  version: 4.9.2
+  resolution: "@openzeppelin/contracts@npm:4.9.2"
+  checksum: 0538b18fe222e5414a5a539c240b155e0bef2a23c5182fb8e137d71a0c390fe899160f2d55701f75b127f54cc61aee4375370acc832475f19829368ac65c1fc6
   languageName: node
   linkType: hard
 
@@ -16,6 +16,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "BlockchainDeveloper@workspace:."
   dependencies:
-    "@openzeppelin/contracts": ^4.8.0
+    "@openzeppelin/contracts": ^4.9.2
   languageName: unknown
   linkType: soft
