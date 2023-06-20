@@ -108,3 +108,4 @@ dist
 .deps
 /contracts/artifacts
 /contracts/visibilidade/**/artifacts
+contracts/herança/banco/artifacts
