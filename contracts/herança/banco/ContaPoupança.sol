@@ -14,4 +14,8 @@ contract ContaPoupanca is Conta{
         totalSacado += super.saque(valorSaque);
         ultimoSaque = block.timestamp;
     }
+
+    function depositarPoupanca(uint256 valorDeposito) public{
+        super.deposito(valorDeposito);
+    }
 }
