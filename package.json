@@ -3,7 +3,8 @@
   "packageManager": "yarn@3.3.0",
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.0",
-    "hardhat": "^2.17.2"
+    "hardhat": "^2.17.2",
+    "soleasy": "^0.0.20"
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-chai-matchers": "^2.0.0",

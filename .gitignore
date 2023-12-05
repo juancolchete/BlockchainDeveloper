@@ -114,3 +114,5 @@ typechain-types
 /contracts/artifacts
 /contracts/visibilidade/**/artifacts
 contracts/herança/banco/artifacts
+verify
+out
