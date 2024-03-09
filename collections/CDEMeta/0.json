@@ -1,0 +1,17 @@
+{
+  "description":"Represent international colchete day event",
+  "image":"https://nftstorage.link/ipfs/bafybeigbpveqkxshyo5svgjepsgr4lmwbamhl5osgfjbrz2wgo5zb5lfcy/0",
+  "name": "Raven #0",
+  "edition": 0,
+  "attributes": [
+    {
+      "trait_type": "kind",
+      "value": "origami"
+    },
+    {
+      "trait_type": "name",
+      "value": "Raven"
+    }
+  ]
+
+}
